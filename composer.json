@@ -9,10 +9,5 @@
 	      "email": "aalejo@gmail.com",
 	      "homepage": "http://alesanchezr.com"
 	    }
-    ],
-    "autoload": {
-        "psr-0" : {
-            "alesanchezr\\wp-geeks-referrals" : "src"
-        }
-    }
+    ]
 }
