@@ -1,0 +1,8 @@
+{
+    "name": "alesanchezr/wp-geeks-referrals",
+    "autoload": {
+        "psr-0" : {
+            "alesanchezr\\wp-geeks-referrals" : "src"
+        }
+    }
+}
