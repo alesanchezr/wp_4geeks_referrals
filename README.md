@@ -1,7 +1,11 @@
 WP 4Geeks Referrals
 ====================
+Author: Alejandro Sanchez (@alesanchezr)
+
 Donate link: http://alesanchezr.com/donate/
+
 Tags: referrals, referrer, affiliate
+
 License: MIT
 
 The objective of this plugin is to have a referral/affiliate promotion in your site. It Generates and track any referal from any visitors of the website.
