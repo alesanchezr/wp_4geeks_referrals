@@ -1,5 +1,15 @@
 {
     "name": "alesanchezr/wp-geeks-referrals",
+    "type": "wordpress-plugin",
+    "description": "Generate referral URLS and track all user referrals",
+    "license": "MIT",
+    "authors": [
+	    {
+	      "name": "Alejandro Sanchez",
+	      "email": "aalejo@gmail.com",
+	      "homepage": "http://alesanchezr.com"
+	    }
+    ],
     "autoload": {
         "psr-0" : {
             "alesanchezr\\wp-geeks-referrals" : "src"
