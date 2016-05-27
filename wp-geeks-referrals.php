@@ -121,7 +121,7 @@ if(!class_exists('WP_Geeks_Referrals'))
         	{
 		        $hash = $this->model->get_random_hash();
 
-		        if(!$hash or $hash=='') $hash = rand(0,6);
+		        if(!$hash or $hash=='') $hash = '1'.rand(0,6);
 		        $referral = $this->model->save_referral(array( 
 		                'external_id' => $externalId, 
 		                'referred_by' => $referralHash, 
